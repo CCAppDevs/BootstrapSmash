@@ -1,0 +1,23 @@
+/*
+Midnight Green - #003638
+Atomic Tangerine - #F2A183
+White - #FFFFFF
+*/
+
+.list {
+    background-color: hotpink;
+    border: 1px solid black;
+}
+
+.item {
+    background-color: lightgreen;
+    border: 1px solid white;
+}
+
+body {
+    background-color: #003638;
+}
+
+nav {
+    background-color: #F2A183;
+}
