@@ -4,6 +4,29 @@ Atomic Tangerine - #F2A183
 White - #FFFFFF
 */
 
+#search,
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+#main,
+nav {
+    color: red,
+}
+
+nav {
+    font-weight: bold;
+    font-style: italic;
+}
+
+nav {
+    
+}
+
 .list {
     background-color: hotpink;
     border: 1px solid black;
